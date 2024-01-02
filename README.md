@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4285F4"> First-Step-App </h1>
+<h1 align="center" style="color: #4285F4"> First Step App </h1>
 
 ## <span style="color: #4285F4"> Project Description
 
